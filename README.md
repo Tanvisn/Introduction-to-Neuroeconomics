@@ -11,3 +11,5 @@
 [Classical & Neoclassical Economics - Dr Anirban Dasgupta](/assets/anirban_sir1.pdf)
 
 [Consumer Choice Further Extensions - Dr Anirban Dasgupta](/assets/anirban_sir2.pdf)
+
+[Economic Teory of Choices](/assets/Economic Theory of Choice.pdf)
