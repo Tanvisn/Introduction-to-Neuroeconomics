@@ -12,4 +12,4 @@
 
 [Consumer Choice Further Extensions - Dr Anirban Dasgupta](/assets/anirban_sir2.pdf)
 
-[Economic Teory of Choices](/assets/Economic Theory of Choice.pdf)
+[Economic Theory of Choices](/assets/Economic Theory of Choice.pdf)
