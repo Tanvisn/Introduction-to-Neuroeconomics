@@ -15,4 +15,4 @@
 [Economic Theory of Choices](/assets/Economic Theory of Choice.pdf)
 
 ## Previous year Projects
-[Project Reports](/assets/Project Reports)
+[Project Reports](/assets/Project Reports/.)
